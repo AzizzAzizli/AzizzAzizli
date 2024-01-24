@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aziz</h1>
-<h3 align="center">A passionate frontend develMy name is Aziz Azizli . I am 19. I'm mostly a front-end developer. I trust myself I'm open to new offers 💪oper from India</h3>
+<h3 align="center">A passionate frontend develMy name is Aziz Azizli . I am 19. I'm mostly a front-end developer. I trust myself I'm open to new offers 💪</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
